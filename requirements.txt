@@ -3,3 +3,8 @@ numpy
 matplotlib
 datascience
 scipy
+nbconvert
+jupyter_client
+ipykernel
+ipywidgets
+okgrade==0.4.3
